@@ -19,7 +19,7 @@ const zmiana4 = document.getElementById("zmiana4");
 //   });
 
 //   function translateText(text) {
-//     const apiKey = "AIzaSyANImIVCdPvAhG_lzRKzK48RI93ZXWVSPw"; // Wprowadź swój klucz API Google Translate
+//     const apiKey = "apiKey"; // Wprowadź swój klucz API Google Translate
 //     const targetLang = "fr"; // Język docelowy (francuski)
 
 //     const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}`;
